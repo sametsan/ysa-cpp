@@ -1,0 +1,12 @@
+{
+	"inputsize":2500,
+	"nodesize":10,
+	"outputsize":10,
+	"offset":0,
+	"output_target_value":1,
+	"error_tolerance":0.005,
+	"activation":"sigmoid",
+	"data_file" : "dataset.ysa",
+	"start_weight": 0.0001,
+	"epoch_limit": 1000
+}
